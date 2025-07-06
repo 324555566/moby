@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mObywatel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="clock">09:47 🌙</div>
+    <div class="title">mDowód</div>
+  </header>
+
+  <main>
+    <section class="card">
+      <div class="photo">
+        <img src="img/zdjecie.png" alt="Zdjęcie">
+      </div>
+      <div class="info">
+        <p><strong>Kacper</strong><br>Imię (imiona)</p>
+        <p><strong>ZIELIŃSKI</strong><br>Nazwisko</p>
+        <p><strong>POLSKIE</strong><br>Obywatelstwo</p>
+        <p><strong>18.03.2007</strong><br>Data urodzenia</p>
+        <p><strong>06231867179</strong><br>Numer PESEL</p>
+      </div>
+      <div class="valid">✔️ Dokument ważny</div>
+    </section>
+
+    <section class="buttons">
+      <button>Potwierdź swoje dane</button>
+      <button>Dane dowodu</button>
+      <button>Zastrzeż PESEL</button>
+      <button>Pozostałe skróty</button>
+    </section>
+  </main>
+
+  <footer>
+    <nav>
+      <a class="active">Pulpit</a>
+      <a>Dokumenty</a>
+      <a>Usługi</a>
+      <a>Kod QR</a>
+      <a>Więcej</a>
+    </nav>
+  </footer>
+</body>
+</html>

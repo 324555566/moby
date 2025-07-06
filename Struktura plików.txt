@@ -1,0 +1,5 @@
+/mobywatel/
+├── index.html
+├── style.css
+├── /img/
+│   └── zdjecie.png (Twoje zdjęcie dowodu)
